@@ -1,0 +1,12 @@
+en:
+  welcome: "Welcome to Mortgage Calculator!"
+  loan: "Please input the loan amount"
+  proper_amount: "The loan amount must be an integer greater then zero"
+  annual_rate: "now: tha Annual Percentage Rate please"
+  bad_rate: "Please input a float rate"
+  years_duration: "Finally input the loan duration in years please"
+  bad_duration: "The loan duration must be an integer greater then zero"
+  payment: "Monthly payment"
+  i_monthly: "Monthly interest rate"
+  duration_months: "Loan duration in months"
+  another_calculation: "Would you like another calculation: yes or no"
